@@ -1,7 +1,3 @@
-*.bib
-*.aux
-*.log
-*.out
-*.run.xml
-*.bcf
-HelveticaNeue.dfont
+_site/
+.sass-cache/
+.jekyll-cache

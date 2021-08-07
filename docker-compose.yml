@@ -1,0 +1,10 @@
+version: "3.9"
+
+services:
+  markdown-cv:
+    image: jekyll
+    ports:
+      - 4000:4000
+      - 35729:35729
+    volumes:
+      - .:/src
