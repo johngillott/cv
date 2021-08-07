@@ -5,3 +5,7 @@ build:
 .PHONY: run
 run:
 	docker-compose up
+
+.PHONY: open
+open:
+	open http://localhost:4000
