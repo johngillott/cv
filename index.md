@@ -13,11 +13,11 @@ Programmer.
 
 ## Profile
 
-A highly passionate software engineer specialised in Go (Golang) and Rust, with experience in writing low-latency, highly available and scalable microservices for staffing and finance domain, and sports betting industry. I enjoy the dynamic of working in a progressive environment and knowing that my work directly affects the direction and success of the business. I have experience of working autonomously; however I recognize the greater value of both teamwork and collaboration.
+A highly passionate software engineer specialised in Go and Rust, with experience in writing low-latency, highly available and scalable microservices for staffing and finance domain, and sports betting industry. I enjoy the dynamic of working in a progressive environment and knowing that my work directly affects the direction and success of the business. I have experience of working autonomously; however I recognize the greater value of both teamwork and collaboration.
 
 ### Specialised in
 
-Go, Rust, Linux, Docker
+Go, Rust, Linux, Docker, Kubernetes
 
 ### Education
 
@@ -26,9 +26,16 @@ __University of Leicester__, Leicester, UK (09 2011 - 07 2016) - MComp Computer 
 ## Experience
 
 `10 2021 - present.`
-__Software Developer at Nando's__, Remote, UK
+__Senior Software Engineer at Nando's__, Remote, UK
 
-Languages and tools: Go, Rust, Bash, Git, Google Cloud Platform
+- Designed and implemented microservices in Rust with event-driven architecture to enable new Promotions for Customer online ordering experience
+- Authored an internal Rust crate for application tracing and instrumented core services using OpenTelemetry and Cloud Trace
+- Mentoring mid-level engineers in Go
+- Performing tech discovery, running planning sessions and managing engineers to deliver new features
+- Introduced feature flag management to rollout new menu management tool to over 450 restaurants across the UK and Ireland with zero disruption
+- Interim tech lead driving high-level archiectural discussions and working with a delivery lead and product owner to enrich the Nando's exPERience
+
+Languages and tools: Go, Rust, gRPC, GraphQL, PostgreSQL, Bash, Google Cloud Platform, Git
 
 `05 2019 - 10 2021`
 __Software Developer at bet365__, Manchester, UK
@@ -38,7 +45,7 @@ __Software Developer at bet365__, Manchester, UK
 - Migrated monolithic services written in C# into low-latency, highly available and scalable Go microservices
 - Mentored 5 developers from graduate to mid-level
 
-Languages and tools: Go, Bash, Git, Docker, Linux, Jenkins
+Languages and tools: Go, Bash, Docker, Linux, Jenkins, Git
 
 `03 2018 - 05 2019`
 __Graduate Software Engineer at GRI UK__, Knutsford, UK
@@ -47,13 +54,17 @@ __Graduate Software Engineer at GRI UK__, Knutsford, UK
 - Refactored and redesigned an algorithm for processing candidates' work history to calculate candidates' Permanent Equivalent Rate status, with respect to Agency Worker Regulations, for tens of thousands of candidates on a weekly basis
 - Influenced the system design and contributed to the technical architecture of core systems including migrating databases from Amazon Relational Database Service to Amazon Aurora, and containerized microservices to Functions as a Service in AWS
 
-Languages and tools: Java EE, Spring MVC, Hibernate ORM, MySQL, JavaScript/ES6, MySQL, jQuery
+Languages and tools: Go, Bash, Docker, Linux, Jenkins, Git
+
+Go, Angular(2+), MySQL, Amazon Web Services, ELK Stack, Docker, Python, Jenkins, Git
 
 `09 2018 - 01 2017`
 __Software Engineer at University of Leicester__, Leicester, UK
 
 - Worked part-time to develop a learning tool for the Department of Mathematics to teach  undergraduate actuarial science students about trading in futures, forex and stocks in a virtual environment. I was responsible for eliciting and managing client requirements to design, development and delivery of the project
 - Sourced and analyzed client requirements to create technical deliverables
+
+Languages and tools: Java EE, Spring MVC, Hibernate ORM, MySQL, JavaScript, MySQL, jQuery
 
 ## Open source
 
