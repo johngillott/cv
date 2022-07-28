@@ -25,7 +25,7 @@ __University of Leicester__, Leicester, UK (09 2011 - 07 2016) - MComp Computer 
 
 ## Experience
 
-`10 2021 - present.`
+`10 2021 - now`
 __Senior Software Engineer at Nando's__, Remote, UK
 
 - Designed and implemented microservices in Rust with event-driven architecture to enable new Promotions for Customer online ordering experience
@@ -37,7 +37,7 @@ __Senior Software Engineer at Nando's__, Remote, UK
 
 Languages and tools: Go, Rust, gRPC, GraphQL, PostgreSQL, Bash, Google Cloud Platform, Git
 
-`05 2019 - 10 2021`
+`5 2019 - 10 2021`
 __Software Developer at bet365__, Manchester, UK
 
 - Co-authored a high performance XML encoder package in Go
@@ -47,7 +47,7 @@ __Software Developer at bet365__, Manchester, UK
 
 Languages and tools: Go, Bash, Docker, Linux, Jenkins, Git
 
-`03 2018 - 05 2019`
+`3 2018 - 5 2019`
 __Graduate Software Engineer at GRI UK__, Knutsford, UK
 
 - Developed scalable, RESTful microservices and internal packages in Go with support for JSON Web Tokens, AWS services
@@ -58,7 +58,7 @@ Languages and tools: Go, Bash, Docker, Linux, Jenkins, Git
 
 Go, Angular(2+), MySQL, Amazon Web Services, ELK Stack, Docker, Python, Jenkins, Git
 
-`09 2018 - 01 2017`
+`9 2018 - 1 2017`
 __Software Engineer at University of Leicester__, Leicester, UK
 
 - Worked part-time to develop a learning tool for the Department of Mathematics to teach  undergraduate actuarial science students about trading in futures, forex and stocks in a virtual environment. I was responsible for eliciting and managing client requirements to design, development and delivery of the project
